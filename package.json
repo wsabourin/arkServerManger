@@ -1,15 +1,15 @@
 {
-  "name": "arkservermanger",
-  "version": "1.0.0",
-  "description": "",
-  "main": "main.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "Wayne Sabourin",
-  "license": "ISC",
-  "dependencies": {
-    "electron": "^30.1.0"
-  }
+    "name": "arkservermanger",
+    "version": "1.0.0",
+    "description": "Simple to use Ark Ascended server manager",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "keywords": [],
+    "author": "Wayne Sabourin",
+    "license": "ISC",
+    "dependencies": {
+        "electron": "^30.1.0"
+    }
 }
